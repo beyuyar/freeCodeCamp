@@ -1,3 +1,5 @@
+"""This is a workshop with guidance on every step of building the calculator which has no significance over my knowledge."""
+
 from abc import ABC, abstractmethod
 from typing import List
 class Product:
